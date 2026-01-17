@@ -5,6 +5,10 @@
 
 A high-precision 2D plotter conversion of a Creality Ender 3 Pro. This project features a complete "gutting" of 3D printing components—**no hotend, no heated bed**—creating a dedicated, lightweight, and silent drawing machine.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dev01-D/Eric-Kapton/main/images/Eric2.jpeg" width="400" alt="Eric Kapton Plotter">
+</p>
+
 ---
 
 ## 🚀 Highlights
