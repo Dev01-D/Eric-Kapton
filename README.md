@@ -21,7 +21,7 @@ A high-precision 2D plotter conversion of a Creality Ender 3 Pro. This project f
 | **Printer Model** | Creality Ender 3 Pro |
 | **Controller** | [BigTreeTech SKR Pico V1.0](https://biqu.equipment/products/btt-skr-pico-v1-0) |
 | **Host** | [Raspberry Pi Zero 2W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/) |
-| **Firmware** | Klipper / Mainsail (via KIAUH) (https://github.com/dw-0/kiauh) |
+| **Firmware** | [Klipper / Mainsail (via KIAUH)](https://github.com/dw-0/kiauh) |
 | **X/Y Drivers** | TMC2209 with Sensorless Homing |
 | **Z Endstop** | Physical Switch on Pin `gpio25` |
 | **Pen Holder** | [Precision Linear Pen Holder](https://makerworld.com/en/models/2258664-ender-3-precision-linear-pen-holder) |
