@@ -9,10 +9,6 @@ Hardware Specs
 
     Pen Holder: Precision Linear Pen Holder
 
-Wiring Reference
-
-    [!TIP] Since you are using UART, make sure to document which pins on the Pi Zero 2W map to the SKR Pico. A simple table or photo here is invaluable.
-
 Klipper Configuration
 
 To use this as a plotter, I have modified the printer.cfg to optimize for 2D movement.
